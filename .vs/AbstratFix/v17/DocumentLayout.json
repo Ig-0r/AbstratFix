@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ntzzy\\source\\repos\\AbstratFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66DD044C-ED23-4C25-B334-EF5FC2FDA298}|AbstratFix\\AbstratFix.csproj|c:\\users\\ntzzy\\source\\repos\\abstratfix\\abstratfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DD044C-ED23-4C25-B334-EF5FC2FDA298}|AbstratFix\\AbstratFix.csproj|solutionrelative:abstratfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DD044C-ED23-4C25-B334-EF5FC2FDA298}|AbstratFix\\AbstratFix.csproj|c:\\users\\ntzzy\\source\\repos\\abstratfix\\abstratfix\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DD044C-ED23-4C25-B334-EF5FC2FDA298}|AbstratFix\\AbstratFix.csproj|solutionrelative:abstratfix\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DD044C-ED23-4C25-B334-EF5FC2FDA298}|AbstratFix\\AbstratFix.csproj|c:\\users\\ntzzy\\source\\repos\\abstratfix\\abstratfix\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DD044C-ED23-4C25-B334-EF5FC2FDA298}|AbstratFix\\AbstratFix.csproj|solutionrelative:abstratfix\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DD044C-ED23-4C25-B334-EF5FC2FDA298}|AbstratFix\\AbstratFix.csproj|c:\\users\\ntzzy\\source\\repos\\abstratfix\\abstratfix\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DD044C-ED23-4C25-B334-EF5FC2FDA298}|AbstratFix\\AbstratFix.csproj|solutionrelative:abstratfix\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ntzzy\\source\\repos\\AbstratFix\\AbstratFix\\Program.cs",
+              "RelativeDocumentMoniker": "AbstratFix\\Program.cs",
+              "ToolTip": "C:\\Users\\ntzzy\\source\\repos\\AbstratFix\\AbstratFix\\Program.cs",
+              "RelativeToolTip": "AbstratFix\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADUAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:21:49.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxPayer.cs",
+              "DocumentMoniker": "C:\\Users\\ntzzy\\source\\repos\\AbstratFix\\AbstratFix\\Entities\\TaxPayer.cs",
+              "RelativeDocumentMoniker": "AbstratFix\\Entities\\TaxPayer.cs",
+              "ToolTip": "C:\\Users\\ntzzy\\source\\repos\\AbstratFix\\AbstratFix\\Entities\\TaxPayer.cs",
+              "RelativeToolTip": "AbstratFix\\Entities\\TaxPayer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:23:45.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Individual.cs",
+              "DocumentMoniker": "C:\\Users\\ntzzy\\source\\repos\\AbstratFix\\AbstratFix\\Entities\\Individual.cs",
+              "RelativeDocumentMoniker": "AbstratFix\\Entities\\Individual.cs",
+              "ToolTip": "C:\\Users\\ntzzy\\source\\repos\\AbstratFix\\AbstratFix\\Entities\\Individual.cs",
+              "RelativeToolTip": "AbstratFix\\Entities\\Individual.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:27:44.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\ntzzy\\source\\repos\\AbstratFix\\AbstratFix\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "AbstratFix\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\ntzzy\\source\\repos\\AbstratFix\\AbstratFix\\Entities\\Company.cs",
+              "RelativeToolTip": "AbstratFix\\Entities\\Company.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:28:01.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

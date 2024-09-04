@@ -1,0 +1,14 @@
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\bin\Debug\net8.0\AbstratFix.exe
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\bin\Debug\net8.0\AbstratFix.deps.json
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\bin\Debug\net8.0\AbstratFix.runtimeconfig.json
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\bin\Debug\net8.0\AbstratFix.dll
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\bin\Debug\net8.0\AbstratFix.pdb
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\obj\Debug\net8.0\AbstratFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\obj\Debug\net8.0\AbstratFix.AssemblyInfoInputs.cache
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\obj\Debug\net8.0\AbstratFix.AssemblyInfo.cs
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\obj\Debug\net8.0\AbstratFix.csproj.CoreCompileInputs.cache
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\obj\Debug\net8.0\AbstratFix.dll
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\obj\Debug\net8.0\refint\AbstratFix.dll
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\obj\Debug\net8.0\AbstratFix.pdb
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\obj\Debug\net8.0\AbstratFix.genruntimeconfig.cache
+C:\Users\ntzzy\source\repos\AbstratFix\AbstratFix\obj\Debug\net8.0\ref\AbstratFix.dll
